@@ -33,17 +33,21 @@
 - [x] Local Notifications
 - [x] Pull to Refresh
 - [x] Localization
+- [x] Internet Connection Control
 - [x] Unit Tests
-
-## Screenshots 
-
-<p align="row">
-<img src= "https://user-images.githubusercontent.com/13523858/208307258-5563ef63-c4c7-42de-92a7-3f24eec60041.png"  height = "450" >
-<img src= "https://user-images.githubusercontent.com/13523858/208307355-4780cb0a-475b-4de0-a7db-ef92c1518d31.png"  height = "450">
-</p>
 
 ## Video
 
 https://user-images.githubusercontent.com/13523858/208307051-0c05faae-4def-4c90-bbd5-6649145e6e30.mp4
+
+## Additional Screenshots 
+
+<p align="row">
+<img src= "https://user-images.githubusercontent.com/13523858/208307258-5563ef63-c4c7-42de-92a7-3f24eec60041.png"  height = "450" >
+<img src= "https://user-images.githubusercontent.com/13523858/208307355-4780cb0a-475b-4de0-a7db-ef92c1518d31.png"  height = "450">
+<img src= "https://user-images.githubusercontent.com/13523858/208317259-c6e239e1-1515-4538-ae27-7b0a53d49c50.png"  height = "450">
+</p>
+
+
 
 
